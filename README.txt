@@ -39,6 +39,19 @@ C:\Users\YOURPCNAME\Desktop\ZeroClassicChat
 First you need to start your Zero Classic Full node!
 https://github.com/zeroclassic/ZeroClassic/releases/tag/v4.4.4
 
+The Zero Classic node must be configured correctly for the chat app to work.
+Make sure your zero.conf file includes the following essential settings:
+
+server=1
+addressindex=1
+experimentalfeatures=1
+insightexplorer=1
+listen=1
+maxconnections=8
+rpcuser=YourRandomUsername
+rpcpassword=YourRandomPassword
+rpcport=8956  # Default RPC port for your node
+
 After that you start ZeroClassicChat.exe.
 
 The application will automatically connect to your local node.
@@ -84,6 +97,7 @@ https://github.com/zeroclassic/ZeroClassic/releases/tag/v4.4.4
 
 For questions or feedback, contact:
 📧 Zero classic community on discord OR Discord: investeren_doe_ik_zo
+
 
 
 
