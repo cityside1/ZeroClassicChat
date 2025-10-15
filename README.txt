@@ -40,6 +40,7 @@ First you need to start your Zero Classic Full node!
 https://github.com/zeroclassic/ZeroClassic/releases/tag/v4.4.4
 
 The Zero Classic node must be configured correctly for the chat app to work.
+You find this file in map: C:\Users\YOURPCNAME\AppData\Roaming\ZeroClassic\zero.conf
 Make sure your zero.conf file includes the following essential settings:
 
 server=1
@@ -97,6 +98,7 @@ https://github.com/zeroclassic/ZeroClassic/releases/tag/v4.4.4
 
 For questions or feedback, contact:
 📧 Zero classic community on discord OR Discord: investeren_doe_ik_zo
+
 
 
 
