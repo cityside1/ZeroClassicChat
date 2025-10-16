@@ -53,6 +53,7 @@ Once you synch up you can immediately send and receive messages.
 All rights reserved.
 This software is closed-source. Sending the Original upload or reupload is allowed, but reverse engineering, or modification is not permitted.
 
+Only tested for windows.
 Works only with an active ZeroClassic full node:
 https://github.com/zeroclassic/ZeroClassic/releases/tag/v4.4.4
 
