@@ -38,8 +38,8 @@ experimentalfeatures=1
 insightexplorer=1
 listen=1
 maxconnections=8
-rpcuser=YourRandomUsername
-rpcpassword=YourRandomPassword
+rpcuser=YourRandomUsername       # Make yourself a random username
+rpcpassword=YourRandomPassword   # Make yourself a random password
 rpcport=8956  # Default RPC port for your node
 </pre>
 <b>Start first your zeroclassic full node, it have to run as first.
