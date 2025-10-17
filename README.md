@@ -3,7 +3,7 @@ A fully decentralized, public and private messaging app built on the Zero Classi
 
 📘 <b>Overview</b>
 
-ZeroClassicChat communicates directly through the ZeroClassic full node that runs all local on you computer.
+ZeroClassicChat communicates directly through the ZeroClassic full node that runs all local on your computer.
 It uses the ZeroClassic peer-to-peer blockchain network with no central servers or third-party services.
 As long as your full node is running, the chat can send coins and exchange messages across the whole network.
 
