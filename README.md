@@ -1,4 +1,4 @@
-# ZeroClassicChat
+# ZeroClassicChat - Public And Private P2P Messenger for the ZeroClassic Blockchain.
 A fully decentralized, public and private messaging app built on the Zero Classic blockchain. Encrypted communication owned and controlled by no one but you.
 
 📘 <b>Overview</b>
