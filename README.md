@@ -38,12 +38,16 @@ experimentalfeatures=1
 insightexplorer=1
 listen=1
 maxconnections=8
+port=23801
 rpcuser=YourRandomUsername       # Make yourself a random username
 rpcpassword=YourRandomPassword   # Make yourself a random password
 rpcport=8956  # Default RPC port for your node
+rpcallowip=127.0.0.1
+dnsseed=1
 </pre>
 <b>Start first your zeroclassic full node, it have to run as first.
 After that you start ZeroClassicChat.exe.</b>
+If you have problems to find peers, replace your peers.dat in the C:\Users\YOURPCNAME\AppData\Roaming\ZeroClassic\ folder.
 
 The application will automatically connect to your local node. 
 Once you synch up you can immediately send and receive messages.
