@@ -39,9 +39,9 @@ insightexplorer=1
 listen=1
 maxconnections=8
 port=23801
-rpcuser=YourRandomUsername       # Make yourself a random username
-rpcpassword=YourRandomPassword   # Make yourself a random password
-rpcport=8956  # Default RPC port for your node
+rpcuser=YourRandomUsername       
+rpcpassword=YourRandomPassword  
+rpcport=8956  
 rpcallowip=127.0.0.1
 dnsseed=1
 </pre>
