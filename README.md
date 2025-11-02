@@ -37,6 +37,7 @@ addressindex=1
 experimentalfeatures=1
 insightexplorer=1
 listen=1
+sendchangeback=1  
 maxconnections=8
 port=23801
 rpcuser=YourRandomUsername       
